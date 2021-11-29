@@ -51,8 +51,8 @@
   list-style: none;
 }
 
-.input,.btn{
-  outline :none;
+.input, .btn{
+  outline: none;
 }
 
 .btn {
@@ -150,18 +150,18 @@
 
 /* Completed */
 .list#completed-tasks .label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .list .list-item .input[type=text] {
-  display: none
+  display: none;
 }
 
 .list .list-item.edit-mode .input[type=text] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .list .list-item.edit-mode .label {
