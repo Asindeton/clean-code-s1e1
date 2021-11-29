@@ -16,7 +16,8 @@
   width: 100%;
 }
 
-.header-wrap .more-info-link {
+.header-wrap
+.more-info-link {
   font-family: fantasy, cursive;
 }
 
@@ -159,11 +160,13 @@
   display: none;
 }
 
-.list .list-item.edit-mode .input[type=text] {
+.list .list-item.edit-mode
+.input[type=text] {
   display: inline-block;
   width: 224px;
 }
 
-.list .list-item.edit-mode .label {
+.list .list-item.edit-mode
+.label {
   display: none;
 }
